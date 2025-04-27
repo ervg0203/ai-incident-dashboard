@@ -56,7 +56,7 @@ To run the AI Safety Incident Dashboard locally, follow the steps below:
    npm run dev
    ```
 
-5. Open your browser and go to `http://localhost:5173` to view the application.
+5. Open your browser and go to `http://localhost:5173/ai-incident-dashboard` to view the application.
 
 ## File Structure
 
@@ -99,3 +99,11 @@ We welcome contributions to the AI Safety Incident Dashboard! To contribute:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to your branch (`git push origin feature-name`).
 6. Create a pull request with a description of your changes.
+
+## Images 
+
+![image](https://github.com/user-attachments/assets/ee6c3742-1510-4445-9ec4-ba4ef564a5c3)
+
+![image](https://github.com/user-attachments/assets/399a3e8f-6f3c-477c-a059-ba9ca5ede4f3)
+
+
